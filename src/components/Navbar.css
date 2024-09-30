@@ -40,3 +40,24 @@
     text-decoration: none;
     cursor: pointer;
 }
+
+@media screen and (max-width: 768px){
+    .navbar{
+        height: 60px;
+    }
+    #navbar{
+        width: 85vw;
+    }
+    .logo{
+        font-size: 20px;
+    }
+    #logo{
+        height: 40px;
+        width: 40px;
+    }
+    #github{
+        height: 30px;
+        width: 30px;
+    }
+    
+}
