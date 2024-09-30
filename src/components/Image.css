@@ -1,0 +1,52 @@
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  height: fit-content;
+  width: 300px;
+  border-radius: .5rem;
+  margin-bottom: 30px;
+}
+
+.image {
+    height: 300px;
+    width: 300px;
+    max-height: 300px;
+    max-width: 300px;
+    border-radius: .5rem;
+    margin:10px 0px;
+}
+
+.image-overlay{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-items: left;
+}
+
+.image-overlay p{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    color: #2f2f2f;
+    font-size: 14px;
+    text-align: center;
+    word-spacing: 3px;
+}
+
+.image-overlay a{
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(41, 41, 255);
+    color: white;
+    border-radius: 0.5rem;
+    padding: 0.45rem 0.75rem;
+    margin-top: 10px;
+}
+
+.image-overlay a:hover{
+    transform: scale(1.05);
+}
