@@ -12,7 +12,7 @@ function App() {
 
     useEffect(() => {
         if (value) {
-            fetchRandomImages(value, 6).then(fetchedImages => {
+            fetchRandomImages(value, 12).then(fetchedImages => {
                 setImages(fetchedImages);
             }).catch(error => {
                 console.error('Error fetching random images:', error);
