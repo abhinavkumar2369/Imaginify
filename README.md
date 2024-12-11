@@ -1,6 +1,6 @@
 <div align="center">
-     <h1 align="center">Vite Project</h1>
-     <img src="https://github.com/abhinavkumar2369/Vite-QuickStart-Template/assets/170245635/0231f1c2-4036-47cc-aa69-9ca83bfb812c" height=90px width=90px/>
+     <h1 align="center">Imaginify</h1>
+     <img src="https://github.com/user-attachments/assets/19b0ed6d-b65c-467f-82ed-72ebc108549e" height=90px width=90px/>
      <br/>
      <br/>
      <img alt="Static Badge" src="https://img.shields.io/badge/Website-red?style=for-the-badge">
@@ -20,24 +20,24 @@
      <!-- --------------------------------------------- -->
      <br/>
      <!-- License -->
-     <img alt="GitHub License" src="https://img.shields.io/github/license/abhinavkumar2369/Vite-QuickStart-Template">
+     <img alt="GitHub License" src="https://img.shields.io/github/license/abhinavkumar2369/Imaginify">
      <br/>
      <!-- Commit Count -->
-     <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/abhinavkumar2369/Vite-QuickStart-Template/main">
+     <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/abhinavkumar2369/Imaginify/main">
      <!-- Repo Size -->
-     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/abhinavkumar2369/Vite-QuickStart-Template?style=flat&color=orange">
+     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/abhinavkumar2369/Imaginify?style=flat&color=orange">
      <!-- Repo Code -->
-     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abhinavkumar2369/Vite-QuickStart-Template">
+     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abhinavkumar2369/Imaginify">
      <br/>
-     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abhinavkumar2369/Vite-QuickStart-Template?style=flat&color=orange">
+     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abhinavkumar2369/Imaginify?style=flat&color=orange">
      <!-- Language Count -->
-     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/abhinavkumar2369/Vite-QuickStart-Template">
+     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/abhinavkumar2369/Imaginify">
      <!-- Watchers -->
-     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/abhinavkumar2369/Vite-QuickStart-Template?style=flat">
+     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/abhinavkumar2369/Imaginify?style=flat">
      <!-- Forks -->
-     <img alt="GitHub forks" src="https://img.shields.io/github/forks/abhinavkumar2369/Vite-QuickStart-Template?style=flat&color=orange">
+     <img alt="GitHub forks" src="https://img.shields.io/github/forks/abhinavkumar2369/Imaginify?style=flat&color=orange">
      <br/>
-     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/abhinavkumar2369/Vite-QuickStart-Template">
+     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/abhinavkumar2369/Imaginify">
 </div>
 
 
@@ -45,19 +45,22 @@
 
 
 ## Overview 🌟
-Write about the project over here.
+- This web app lets users quickly generate stunning images 🖼️ based on their text input by fetching responses from the Unsplash API.
+- Simply enter a keyword or phrase, and get a beautiful, high-quality image in seconds!
 
 
 ## Features 🚀
-- 1
-- 2
+- Get relevant, high-resolution images based on your input text.
+- Clean, simple, and easy-to-use interface to make your search effortless.
+- Utilizes Unsplash API to bring you a diverse and rich library of images.
 
 
 <!------------------------------------------------->
   
 
-## [➡️ Calculator ](https://username.github.io/Project-Name/)
-![Image](https://github.com/abhinavkumar2369/Vite-QuickStart-Template/assets/170245635/14bb080a-539b-4474-bed0-b9afdbd3a4c3)
+## ➡️ Screenshot
+![Imaginify](https://github.com/user-attachments/assets/f3ff5427-4f1a-4b8d-9246-177496a1d6d4)
+
 
 
 <!------------------------------------------------->
